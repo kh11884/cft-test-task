@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../multi_text_stat/multi_text_stat.iml" filepath="$PROJECT_DIR$/../multi_text_stat/multi_text_stat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../multiex_text_stat/multiex_text_stat.iml" filepath="$PROJECT_DIR$/../multiex_text_stat/multiex_text_stat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text_stat.iml" filepath="$PROJECT_DIR$/text_stat.iml" />
+    </modules>
+  </component>
+</project>
